@@ -1,4 +1,4 @@
-# terraform_rds
+# terraform_rds_module
 
 ## Please add below code
 ```
